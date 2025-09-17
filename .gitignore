@@ -1,0 +1,18 @@
+# Python
+.venv/
+.venvC/
+__pycache__/
+*.pyc
+
+# FastAPI / env
+*.db
+
+# Node / Vite
+node_modules/
+dist/
+.build/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

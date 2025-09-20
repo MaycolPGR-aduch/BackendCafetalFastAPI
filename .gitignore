@@ -16,3 +16,21 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+.venv/
+__pycache__/
+.env*
+.env
+.env
+.env
+*.log"
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.log
+.coverage
+.pytest_cache/
+dist/
+build/
